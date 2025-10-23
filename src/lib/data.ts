@@ -87,7 +87,6 @@ export const skills = {
     "Microsoft Office",
     "Hubspot",
     "SalesForce",
-    "Active",
   ],
 };
 
