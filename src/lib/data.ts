@@ -92,14 +92,13 @@ export const skills = {
 
 export const projects = [
   {
-    title: "Lorem Ipsum Project",
-    github: "https://github.com/loremipsum/project",
+    title: "Food Truck Finder",
+    github: "https://github.com/JovanyLeon/Food-Truck-Finder.git",
     description: [
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
-      "Duis aute irure dolor in reprehenderit in voluptate velit esse.",
-      "Excepteur sint occaecat cupidatat non proident.",
+      "Engineered and developed a responsive web application integrating the Google Maps API to help 50+ students locate nearby food trucks with an interactive, data-driven map interface.",
+      "Implemented a JavaScript-based auto-fill search module leveraging asynchronous API calls and event listeners to dynamically render map markers from JSON data, improving query efficiency by 40%.",
+      "Increased production-ready code output by 20% each sprint and identified 4–5 issues per sprint by contributing as a full-stack developer in an Agile team, actively participating in sprint planning, daily stand-ups, and code reviews.",
+      "Collaborated in an Agile team using GitLab for version control and code reviews to ensure reliable feature integration and team contributions.",
     ],
   },
   {
