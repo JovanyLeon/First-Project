@@ -102,14 +102,11 @@ export const projects = [
     ],
   },
   {
-    title: "Dolor Sit Amet App",
-    github: "https://github.com/loremipsum/dolorapp",
+    title: "Psudeo Banking Validator",
+    github: "https://github.com/JovanyLeon/psuedo_banking_validator",
     description: [
-      "Morbi in sem quis dui placerat ornare.",
-      "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam.",
-      "Praesent dapibus, neque id cursus faucibus.",
-      "Fusce feugiat malesuada odio.",
-      "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices.",
+      "Used OOP properties to engineer a psuedo banking software that keeps track of time, checkings, savings, and CD accounts",
+      "Used TDD to underdo 200+ test cases to guarentee banking properties",
     ],
   },
 ];
