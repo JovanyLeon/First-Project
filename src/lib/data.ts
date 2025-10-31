@@ -105,8 +105,14 @@ export const projects = [
     title: "Psudeo Banking Validator",
     github: "https://github.com/JovanyLeon/psuedo_banking_validator",
     description: [
-      "Used OOP properties to engineer a psuedo banking software that keeps track of time, checkings, savings, and CD accounts",
-      "Used TDD to underdo 200+ test cases to guarentee banking properties",
+      "Developed a comprehensive pseudo-banking system in Java that models real-world financial behaviors such as deposits, withdrawals, transfers, and interest accrual.",
+    "Applied Object-Oriented Programming (OOP) principles including abstraction, encapsulation, inheritance, and polymorphism to design modular and reusable account classes.",
+    "Implemented Checking, Savings, and Certificate of Deposit (CD) accounts, each with specialized transaction rules, maturity logic, and validation constraints.",
+    "Used composition through a central Bank class to manage accounts, and command processors to handle user operations cleanly and efficiently.",
+    "Followed Test-Driven Development (TDD) practices to ensure functionality correctness and maintainability, writing 200+ JUnit test cases covering all edge cases.",
+    "Utilized mutation testing to verify test suite effectiveness and eliminate weak assertions, ensuring high reliability of core banking logic.",
+    "Configured GitLab CI/CD pipelines to automatically compile, test, and analyze code for every commit, enabling continuous integration and regression-free builds.",
+    "Designed transaction validation layers to prevent invalid inputs, enforce balance constraints, and simulate time-based banking actions like monthly interest.",
     ],
   },
 ];
